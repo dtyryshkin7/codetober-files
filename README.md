@@ -8,7 +8,7 @@ The Quantum Seeker is a state-of-the-art spaceship designed for deep space explo
 
 ## Repository Structure
 
-- **aircraft_engine.tf**: Defines the configuration for the XJ-9000 engine, including its model, capacity, and security password.
+- **aircraft_engine.md**: Defines the configuration for the XJ-9000 engine, including its model, capacity, and security password.
 
 ## Terraform Resource Definitions
 
